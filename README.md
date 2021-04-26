@@ -4,7 +4,7 @@
 
 http://www.baidu.com
 
-[secondFile](https://github.com/yswr/xfx/blob/main/secondFile)
+[secondFile](https://github.com/yswr/xfx/blob/main/secondFile.md)
 
 
 
